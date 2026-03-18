@@ -103,8 +103,8 @@ Model probabilities are transformed into a **300–900 credit score**, similar t
 
 | Score Range | Risk Level    |
 | ----------- | ------------- |
-| 750+        | Very Safe     |
-| 650–750     | Safe          |
+| 800+        | Very Safe     |
+| 650–800     | Safe          |
 | 550–650     | Moderate Risk |
 | < 550       | High Risk     |
 

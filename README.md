@@ -134,7 +134,7 @@ Applicant → Probability → Credit Score → Risk Band → Decision
 
 ```bash
 git clone https://github.com/SayMyyName/credit-risk-modelling-loan-approval-system.git
-cd credit-risk-modeling
+cd credit-risk-modelling-loan-approval-system
 pip install -r requirements.txt
 ```
 
